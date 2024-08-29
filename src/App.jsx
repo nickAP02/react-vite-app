@@ -1,7 +1,3 @@
-import Dashboard from "./components/template/Dashboard";
-import Form from "./components/template/Form";
-import ListView from "./components/template/ListView";
-import Login from "./components/template/Login";
 import VoiceRecord from "./components/template/VoiceRecord";
 const data ={
     'audio':'./assets/speech-test.mp3',
